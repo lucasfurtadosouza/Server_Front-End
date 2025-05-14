@@ -1,7 +1,7 @@
 {
-  "name": "school2025-1",
+  "name": "server-front-end2025-1",
   "version": "1.0.0",
-  "description": "este apliacacao...",
+  "description": "este aplicacao...",
   "main": "index.html",
   "scripts": {
     "dev": "servor --reload"
@@ -10,7 +10,7 @@
     "type": "git",
     "url": "school"
   },
-  "author": "Rohling",
+  "author": "Lucas F.",
   "license": "MIT",
   "dependencies": {
     "servor": "^4.0.2"
